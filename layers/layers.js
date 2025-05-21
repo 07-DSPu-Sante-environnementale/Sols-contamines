@@ -41,8 +41,8 @@ var lyr_tatdelarhabilitationdessolscontamins_2 = new ol.layer.Vector({
                 popuplayertitle: 'État de la réhabilitation des sols contaminés',
                 interactive: true,
     title: 'État de la réhabilitation des sols contaminés<br />\
-    <img src="styles/legend/tatdelarhabilitationdessolscontamins_2_0.png" /> Non terminée<br />\
-    <img src="styles/legend/tatdelarhabilitationdessolscontamins_2_1.png" /> Terminée<br />\
+    <img src="styles/legend/tatdelarhabilitationdessolscontamins_2_0.png" /> Terminée<br />\
+    <img src="styles/legend/tatdelarhabilitationdessolscontamins_2_1.png" /> Non terminée<br />\
     <img src="styles/legend/tatdelarhabilitationdessolscontamins_2_2.png" /> Non nécessaire<br />' });
 
 lyr_GoogleSatellite_0.setVisible(true);lyr_Municipalits_1.setVisible(true);lyr_tatdelarhabilitationdessolscontamins_2.setVisible(true);
